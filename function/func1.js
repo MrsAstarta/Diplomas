@@ -20,3 +20,5 @@ class func1{
     }
 }
 module.exports = new func1();
+
+//Hello
